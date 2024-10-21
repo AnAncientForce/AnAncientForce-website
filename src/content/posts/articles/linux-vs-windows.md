@@ -42,15 +42,15 @@ Now that may have sounded a bit confusing, but just remember that is how you ins
 
 ### Arch Linux? Wait, what! We were talking about "Linux"
 
-Well, yes. Linux has many different flavours, think of it like Bubble Tea.
+Well, yes. Linux has many different flavors, think of it like Bubble Tea.
 
-Bubble Tea has many different flavours; passion fruit, strawberry, blueberry, etc.
+Bubble Tea has many different flavors; passion fruit, strawberry, blueberry, etc.
 
-You choose your favourite Linux [distribution](https://en.wikipedia.org/wiki/List_of_Linux_distributions). My favourite is Arch Linux; for it's simplicity, and ease of use. I recommend researching a few popular Linux distributions so you can make an informed decision about which one would work for you the best.
+You choose your favorite Linux [distribution](https://en.wikipedia.org/wiki/List_of_Linux_distributions). My favorite is Arch Linux; for it's simplicity, and ease of use. I recommend researching a few popular Linux distributions so you can make an informed decision about which one would work for you the best.
 
 ### So, why would I even use Linux in the first place?
 
-With the discontinuation of Windows 10 soon to come, Microsoft users may have to switch to Windows 11 in the near feature for continued updates. This also means software developers will eventually drop support for Windows 10. Microsoft Windows has it's fair share of annoyances such as; advertisements in the start menu, bloatware installed by default, limitations without buying a licence the operating system, lack of customization; you are forced to use specific features whether you like them or not.
+With the discontinuation of Windows 10 soon to come, Microsoft users may have to switch to Windows 11 in the near feature for continued updates. This also means software developers will eventually drop support for Windows 10. Microsoft Windows has it's fair share of annoyances such as; advertisements in the start menu, bloatware installed by default, limitations without buying a license the operating system, lack of customization; you are forced to use specific features whether you like them or not.
 
 Another thing is hardware requirements, to upgrade to Windows 11, your computer must meet a certain hardware requirement, which in simple terms means if you have an older computer, the only way you can use Windows 11 is with a bypass, which is not recommended as Microsoft could block access to your computer in the near future.
 

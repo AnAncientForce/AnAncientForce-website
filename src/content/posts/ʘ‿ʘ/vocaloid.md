@@ -3,7 +3,6 @@ title: Vocaloid
 published: 2024-05-07
 description: In this article, I tell you about Vocaloid!
 tags:
-  - Me
   - Music
 category: ʘ‿ʘ
 draft: false

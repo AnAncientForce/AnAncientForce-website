@@ -3,10 +3,17 @@ Greetings! I go by many names, but let's just stick with AnAncientForce for now.
 
 🌱 I’m currently learning
 
-- Basic web development skills for static websites.
-- To create basic scripts in python to increase productivity.
+- To create basic scripts in various programming languages to increase productivity.
 - About Artificial intelligence, not how it works, but how it can be used.
 
-Thank you so very much for checking out my website! 💫
+⭐ My goals are
 
-::github{repo="anancientforce/anancientforce"}
+- To become better at programming
+- To familiarize myself more on the software side of tech support
+- To be able to create a fully functional programs that others will find useful
+
+Check out some of my projects!
+- [ShopCore](https://github.com/AnAncientForce/ShopCore)
+- [sysZ](https://github.com/AnAncientForce/sysZ)
+
+Thank you so very much for checking out my website! 💫

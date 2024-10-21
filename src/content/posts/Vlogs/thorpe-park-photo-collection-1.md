@@ -5,7 +5,7 @@ description: A photo collection from my trip to Thorpe Park
 image: IMG_20230911_140244086.jpg
 tags:
   - Photography
-category: Vlogs
+category: ʘ‿ʘ
 draft: false
 ---
 

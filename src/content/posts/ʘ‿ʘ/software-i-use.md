@@ -3,7 +3,6 @@ title: Software I use
 published: 2024-05-09
 description: In this article, I showcase software that I used on a regular basis
 tags:
-  - Me
   - Microsoft Windows
 category: ʘ‿ʘ
 draft: false
@@ -23,7 +22,7 @@ draft: false
 
 ### Notes
 
-- [Obsidian](https://obsidian.md/), my favourite markdown editor. What makes this unique to others is that there's a ton of extensions to choose from, it's highly customizable and if you ever decide to change note-taking software, exporting your notes is as simple as right-clicking the vault and clicking "Copy" and then pasting them into your new software.
+- [Obsidian](https://obsidian.md/), my favorite markdown editor. What makes this unique to others is that there's a ton of extensions to choose from, it's highly customizable and if you ever decide to change note-taking software, exporting your notes is as simple as right-clicking the vault and clicking "Copy" and then pasting them into your new software.
 
 ### Music
 

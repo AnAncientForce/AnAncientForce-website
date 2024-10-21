@@ -12,7 +12,7 @@ draft: false
 ### Gensokyo Night Racing, a custom mod pack created by me!
 
 [Mario Kart Wii](https://en.wikipedia.org/wiki/Mario_Kart_Wii) is a racing game developed by [Nintendo](https://en.wikipedia.org/wiki/Nintendo), released in 2008.
-It was the first video game I had ever played, and is still my favourite till this day! The game featured an online service (where you could race other people online), however the service was discontinued back in 2014.
+It was the first video game I had ever played, and is still my favorite till this day! The game featured an online service (where you could race other people online), however the service was discontinued back in 2014.
 Fortunately, this wasn't the end. Utilizing [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering), [Wiimmfi](https://wiimmfi.de) was born! A custom online service for Nintendo [Wii](https://en.wikipedia.org/wiki/Wii) Games. This brought back the ability to play Mario Kart Wii Online!
 
 There is a official [**wii**ki](https://wiki.tockdom.com) for Mario Kart Wii. I have created my own mod pack which you can find [here](https://wiki.tockdom.com/wiki/Gensokyo_Night_Racing)
